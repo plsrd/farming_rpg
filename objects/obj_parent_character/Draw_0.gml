@@ -34,7 +34,6 @@ array_map(characterSpritePieces,
 
  if (xFrame < animLength - 1) {
 	 xFrame += animSpeed / 60
-	 xFrame += animSpeed / 60
  } else {
 	 xFrame = 1
  }
